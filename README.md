@@ -4,7 +4,6 @@ Heyo! I'm a developer in all kind of stuff. I just like to make things =D. I mos
 
 ### Skills
 - JavaScript
-- Node.js
 - HTML & CSS (a bit)
 - PHP (learning currently)
 - C++ & C# 
